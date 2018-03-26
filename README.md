@@ -22,5 +22,6 @@ Take a look at `vars.tf` and for each input variable provide a value within e.g.
 terraform apply -var-file="default.tfvars"
 ```
 
+There is `example.tvars` which may serve as reference point.
 
-It's been tested with Terraform v0.11.3.
+Project been tested with Terraform v0.11.3.
