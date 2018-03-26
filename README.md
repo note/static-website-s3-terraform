@@ -1,6 +1,4 @@
-This is a Terraform project that creates Amazon S3 and Amazon Route 53 resources to host static website using a custom domain. It does exactly what [this](https://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html) AWS guide does.
-
-In case if guide, that this projects is implementing, changed I stored it as PDF in this repository too.
+This is a Terraform project that creates Amazon S3 and Amazon Route 53 resources to host static website using a custom domain. It does exactly what [this](https://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html) AWS guide does. That guide is stored as PDF in this repository too; just in case it becomes unavailable or changes.
 
 **Disclaimer**: At the moment of writing this project I am an absolute beginner to Terraform and I am definitely not an AWS expert. I've created it purely for my educational purpose but I thought it may be useful for someone. Any suggestions/contributions are welcome.
 
